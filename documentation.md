@@ -7,3 +7,6 @@ to specify the code that i am using, i will write it after the three tildas, ie 
 # heading one
 ## heading two
 ### heading three
+```sql
+create table patients
+```
